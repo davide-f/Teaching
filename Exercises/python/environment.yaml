@@ -1,0 +1,16 @@
+name: python_exercise
+channels:
+  - conda-forge
+  - https://conda.anaconda.org/gurobi
+  - defaults
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - ipykernel
+
+  # for the exercises on pypsa
+  - pypsa
+  - glpk
+  - gurobi  # not necessary but can ease the usability for some users

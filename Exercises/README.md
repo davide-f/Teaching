@@ -10,4 +10,4 @@ The key ingrediant of notebooks are `cells` that are of two main types:
 - `Code cells`: that contain executable code. They can be executed and the outputs may be printed just below the cell
 - `Markdown cells`: they are descriptive cells containing a description of the code being executed in the nearby cells
 
-In this package, you can find examples for basic programming used for teaching.
+In this package, you can find examples for basic programming used for teaching for both julia and python examples. A folder is dedicated to each language and appropriate environment files are added to ease the installation and use of the material.
