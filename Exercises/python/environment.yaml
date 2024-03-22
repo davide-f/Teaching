@@ -8,9 +8,13 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
-  - ipykernel
 
   # for the exercises on pypsa
   - pypsa
   - glpk
   - gurobi  # not necessary but can ease the usability for some users
+
+  # for jupyter
+  - jupyter
+  - ipython
+  - ipykernel
