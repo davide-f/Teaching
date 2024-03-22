@@ -11,3 +11,11 @@ The key ingrediant of notebooks are `cells` that are of two main types:
 - `Markdown cells`: they are descriptive cells containing a description of the code being executed in the nearby cells
 
 In this package, you can find examples for basic programming used for teaching for both julia and python examples. A folder is dedicated to each language and appropriate environment files are added to ease the installation and use of the material.
+
+# The environment
+
+Please, each folder Julia and Python contains an environment file that can be used to create a new environment with the necessary packages to run the notebooks.
+
+- In the Julia folder, the environment is contained in the file `Project.toml`
+- In the Python folder, the environment is contained in the file `environment.yml`
+
