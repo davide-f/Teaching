@@ -6,5 +6,5 @@ To install the environment for these notebooks, please run the following command
 
 ```bash
     cd Teaching/Exercises/python
-    conda env create -f environment.yml
+    conda env create -f environment.yaml
 ```
