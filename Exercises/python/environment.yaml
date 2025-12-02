@@ -10,7 +10,7 @@ dependencies:
   - matplotlib
 
   # for the exercises on pypsa
-  - pypsa
+  - pypsa>=1
   - glpk
   - gurobi  # not necessary but can ease the usability for some users
 
