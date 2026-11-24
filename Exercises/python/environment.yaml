@@ -12,6 +12,7 @@ dependencies:
   # for the exercises on pypsa
   - pypsa>=1
   - glpk
+  - highs
   - gurobi  # not necessary but can ease the usability for some users
 
   # for jupyter
